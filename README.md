@@ -8,7 +8,7 @@ More about the functionality of wkhtmltopdf and wkthmltoimage can be found there
 
 _Hint_:
 The version of the binary is equal to the git tag.
-To install the latest version, use '0.12.4'.
+To install the latest version, use '0.12.5'.
 
 ### Packagist
 
@@ -20,7 +20,7 @@ Require the package for _i386_ with:
 
 And for _amd64_ with:
 
-    php composer.phar require h4cc/wkhtmltoimage-amd64 "0.12.4"
+    php composer.phar require h4cc/wkhtmltoimage-amd64 "0.12.5"
 
 The binary will then be located at:
 
